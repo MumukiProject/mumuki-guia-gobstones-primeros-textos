@@ -1,0 +1,1 @@
+Tené cuidado con cómo se escriben los colores. Para poner una bolita negra escribimos `Negro`, entonces para poner poner una bolita roja deberíamos poner… :wink:
