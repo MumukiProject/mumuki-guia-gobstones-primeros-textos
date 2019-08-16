@@ -1,0 +1,1 @@
+Estas reglas que establecen cómo tenemos que escribir nuestro código para que la computadora lo entienda, es lo que se conoce como _sintaxis_. :satisfied:
