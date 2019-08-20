@@ -1,0 +1,21 @@
+examples:
+ - title: Tablero con 5 bolitas azules
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+     cell 0 0 Azul 5
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+ - title: Tablero con 8 bolitas azules
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+     cell 0 0 Azul 8
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0

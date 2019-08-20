@@ -1,0 +1,1 @@
+¿Qué son todos estos tableros? Quizás notaste que a diferencia de cuando trabajábamos con bloques, ahora no vemos nuestro tablero inicial y final :sweat_smile:. La idea es abstraernos un poco de cuál es nuestro tablero inicial, ya que nuestros programas deberían funcionar en múltiples escenarios. :sunglasses:

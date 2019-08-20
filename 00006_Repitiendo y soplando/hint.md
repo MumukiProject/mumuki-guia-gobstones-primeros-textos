@@ -1,0 +1,1 @@
+Hasta ahora la cantidad de veces que queríamos repetir una acción la determinábamos con un número. Pero ahora no podemos ya que no sabemos cuántas bolitas hay. ¿No podremos combinar `nroBolitas` y `repetir`? :wink:
