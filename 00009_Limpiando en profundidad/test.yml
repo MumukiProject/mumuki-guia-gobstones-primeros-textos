@@ -13,4 +13,4 @@ examples:
    final_board: |
      GBB/1.0
      size 5 1
-     head 1 0
+     head 0 0
