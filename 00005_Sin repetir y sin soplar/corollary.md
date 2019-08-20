@@ -1,0 +1,3 @@
+Al igual que con los programas, las llaves luego del `repeat` contienen todos los comandos que queremos repetir. Esto es análogo a cuando colocábamos bloques con acciones dentro del bloque `repetir`:
+
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-textos/master/assets/Screenshot%20from%202019-08-20%2012-31-56_1566315140033.png" alt="Screenshot from 2019-08-20 12-31-56_1566315140033.png" width="auto" height="auto">

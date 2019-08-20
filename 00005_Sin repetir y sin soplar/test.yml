@@ -1,11 +1,12 @@
+interactive: false
 check_head_position: false
 examples:
  - initial_board: |
      GBB/1.0
-     size 3 3
-     cell 1 1 Azul 1 Verde 1 
+     size 2 4
      head 0 0
    final_board: |
      GBB/1.0
-     size 3 3
-     head 1 1
+     size 2 4
+     cell 0 0 Negro 3 
+     head 0 0
