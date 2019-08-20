@@ -1,0 +1,1 @@
+Ya sabemos como nos podemos `Mover` y como `Poner` y `Sacar` bolitas. ¿Qué otras cosas podremos hacer? :eyes:
