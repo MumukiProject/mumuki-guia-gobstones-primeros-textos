@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Intransitive:program
+  inspection: UsesRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:LimpiarCasilleroDeAzul
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LimpiarCasilleroDeAzul
+  inspection: UsesRepeat
