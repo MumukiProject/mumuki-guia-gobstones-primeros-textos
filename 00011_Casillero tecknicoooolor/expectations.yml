@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:CasilleroColorido
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CasilleroColorido
+  inspection: UsesRepeat

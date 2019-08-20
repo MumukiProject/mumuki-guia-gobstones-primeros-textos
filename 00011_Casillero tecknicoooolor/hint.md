@@ -1,0 +1,1 @@
+`CasilleroColorido` pone 5 bolitas de cada color, usar `repeat` puede facilitar tu tarea. :muscle:
