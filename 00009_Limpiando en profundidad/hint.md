@@ -1,0 +1,1 @@
+Ya sabemos quitar todas las bolitas azules de un casillero con `LimpiarCasilleroDeAzul`; para limpiar una fila probablemente debas combinarlo con `repeat`. :wink:
