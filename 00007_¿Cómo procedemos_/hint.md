@@ -1,0 +1,1 @@
+Si, es sospechosamente parecido al programa del ejercicio anterior. :stuck_out_tongue_winking_eye:

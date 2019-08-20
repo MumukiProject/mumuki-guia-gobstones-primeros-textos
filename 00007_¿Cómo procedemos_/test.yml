@@ -1,0 +1,23 @@
+subject: LimpiarCasilleroDeAzul
+
+examples:
+ - title: Tablero con 3 bolitas azules
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+     cell 0 0 Azul 3
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+ - title: Tablero con 6 bolitas azules
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+     cell 0 0 Azul 6
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
