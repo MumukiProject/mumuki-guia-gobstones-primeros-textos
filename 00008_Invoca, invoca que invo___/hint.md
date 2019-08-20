@@ -1,0 +1,1 @@
+Invocar un procedimiento es muy fácil, simplemente tenés que escribir `LimpiarCasilleroDeAzul()`. :relaxed:

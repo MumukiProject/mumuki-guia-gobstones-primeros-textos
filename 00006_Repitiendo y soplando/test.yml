@@ -1,20 +1,20 @@
 examples:
- - title: Tablero con 5 bolitas azules
+ - title: Tablero con 2 bolitas azules
    initial_board: |
      GBB/1.0
      size 2 2
      head 0 0
-     cell 0 0 Azul 5
+     cell 0 0 Azul 2
    final_board: |
      GBB/1.0
      size 2 2
      head 0 0
- - title: Tablero con 8 bolitas azules
+ - title: Tablero con 4 bolitas azules
    initial_board: |
      GBB/1.0
      size 2 2
      head 0 0
-     cell 0 0 Azul 8
+     cell 0 0 Azul 4
    final_board: |
      GBB/1.0
      size 2 2

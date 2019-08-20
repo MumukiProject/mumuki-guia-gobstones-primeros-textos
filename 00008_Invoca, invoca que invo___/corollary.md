@@ -1,0 +1,1 @@
+A partir de ahora cuando creemos procedimientos vamos a invocarlos desde nuestro programa, tal como hacíamos con la programación con bloques. :ok_hand:
