@@ -1,4 +1,4 @@
-Fijate donde está el cabezal y a dónde tenés que moverlo para sacar las bolitas. ¿Y cómo me muevo y saco bolitas? :thought_ballon:
+Fijate donde está el cabezal y a dónde tenés que moverlo para sacar las bolitas. ¿Y cómo me muevo y saco bolitas? :thought_balloon:
 
 Pensá en que para `Poner` una bolita azul en bloques hacíamos:
 
