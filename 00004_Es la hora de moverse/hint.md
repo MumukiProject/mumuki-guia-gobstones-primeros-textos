@@ -1,4 +1,7 @@
-Fijate donde está el cabezal y a dónde tenés que moverlo para sacar las bolitas. ¿Y cómo me muevo y saco bolitas? :thought_balloon:
+Fijate donde está el cabezal y a dónde tenés que moverlo para sacar las bolitas. Las direcciones siguen siendo `Norte`, `Sur`, `Este` y `Oeste`.
+
+
+¿Y cómo me muevo y saco bolitas? :thought_balloon:
 
 Pensá en que para `Poner` una bolita azul en bloques hacíamos:
 
