@@ -4,5 +4,5 @@ expectations:
   binding: program
   inspection: UsesRepeat
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: repeat
+  binding: program
   inspection: Uses:nroBolitas
